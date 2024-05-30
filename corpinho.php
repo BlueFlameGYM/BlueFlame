@@ -220,7 +220,7 @@ Code written by:
     <div class="cadastro_usuario">
         <h4>Listagem de Usuários</h4>
         <button class="Btn">
-            <a href="index.php">
+            <a href="cadastro.php">
                 CADASTRAR USUARIO
             </a>
         </button>
